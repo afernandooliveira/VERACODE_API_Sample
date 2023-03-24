@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<applist xmlns:xsi="http&#x3a;&#x2f;&#x2f;www.w3.org&#x2f;2001&#x2f;XMLSchema-instance" xmlns="https&#x3a;&#x2f;&#x2f;analysiscenter.veracode.com&#x2f;schema&#x2f;2.0&#x2f;applist" xsi:schemaLocation="https&#x3a;&#x2f;&#x2f;analysiscenter.veracode.com&#x2f;schema&#x2f;2.0&#x2f;applist https&#x3a;&#x2f;&#x2f;analysiscenter.veracode.com&#x2f;resource&#x2f;2.0&#x2f;applist.xsd" applist_version="1.2" account_id="55906"><app app_id="916299" app_name="Demo Plugin SAST" policy_updated_date="2022-11-16T10&#x3a;12&#x3a;19-05&#x3a;00"/>
+   <app app_id="927002" app_name="PIVAA" policy_updated_date="2022-11-16T10&#x3a;10&#x3a;31-05&#x3a;00"/>
+   <app app_id="1264384" app_name="Webgoat" policy_updated_date="2023-03-15T20&#x3a;37&#x3a;26-04&#x3a;00"/>
+</applist>
