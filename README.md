@@ -1,6 +1,4 @@
-# VERACODE_API_Sample
-
-# Veracode Python HMAC Example
+# Veracode Python Example
 
 Exemplos simples de como obter resultados das APIs Rest da VERACODE.
 
