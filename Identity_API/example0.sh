@@ -4,8 +4,8 @@
 # - Your API credentials VERACODE_ID and VERACODE_KEY which you can generate (and revoke) from the UI
 #   Below values don't work any longer (that would be too easy, right?) and are included to allow tracing the HMAC operations.
 
-VERACODE_ID=e14262ec93a6fb62718e75da55069f56
-VERACODE_KEY=1946e3df1c669627bc2241594d3a7864e9f83ca95946144039e7d925bb547b3c58c0bf17c2b6b92fdb6ff3f7c448e5c8d36a2b4b845a9fe590df89a3ca7a142f
+VERACODE_ID=<api_id>
+VERACODE_KEY=<api_secret>
 
 NONCE="$(cat /dev/random | xxd -p | head -c 32)"
 # NONCE=43a096639916c4f3925a44200cc2eeeb

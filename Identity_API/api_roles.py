@@ -6,7 +6,7 @@ from veracode_api_signing.plugin_requests import RequestsAuthPluginVeracodeHMAC
 
 api_base = "https://api.veracode.com"
 headers = {"User-Agent": "Python HMAC Example"}
-api_id = "b857fbe5ee86694d25752220756b527a"
+api_id = "API_ID" #API_ID, irá retornar as roles atribuidas ao API_ID
 
 if __name__ == "__main__":
 

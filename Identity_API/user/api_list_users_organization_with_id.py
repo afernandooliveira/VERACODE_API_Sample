@@ -7,7 +7,7 @@ from veracode_api_signing.plugin_requests import RequestsAuthPluginVeracodeHMAC
 
 api_base = "https://api.veracode.com"
 headers = {"User-Agent": "Python HMAC Example"}
-org_id = "0cd976f2-dfe9-4728-b210-f7910c473774"          
+org_id = "ORG_ID" # Informe o ORG_ID, que pode ser obtido executando uma chamada a API_SELF
 
 
 if __name__ == "__main__":
